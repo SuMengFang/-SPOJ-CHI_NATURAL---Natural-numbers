@@ -1,1 +1,1 @@
-# -SPOJ-CHI_NATURAL---Natural-numbers
+# CHI_NATURAL---Natural-numbers(SPOJ)
