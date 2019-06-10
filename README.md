@@ -1,0 +1,1 @@
+# -SPOJ-CHI_NATURAL---Natural-numbers
