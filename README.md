@@ -9,3 +9,9 @@ Record solutions of problems on SPOJ in C++.
 2. [A problem of Backtracking](codes/BTCK.cpp)
    - Tips:
      - If you use pointer to operate the permutation array in recursive function, remember to recover your changes when you leave unless you get the answwer.
+
+3. [Maths is Magic](codes/NJEG1.cpp)
+   - Tips:
+     - The given 26 cards is put in plate1, and the order is "UPSIDE DOWN"!!
+     - Index plus chosen cards will always be 30.
+     - Don't forget Card A,Card B and Card C.
