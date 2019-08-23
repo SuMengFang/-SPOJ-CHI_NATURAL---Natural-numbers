@@ -15,3 +15,8 @@ Record solutions of problems on SPOJ in C++.
      - The given 26 cards is put in plate1, and the order is "UPSIDE DOWN"!!
      - Index plus chosen cards will always be 30.
      - Don't forget Card A,Card B and Card C.
+
+4. [Ada and Behives](codes/ADABEHIVE.cpp)
+   - Note:
+     - I used 2D Binary Indexed Tree, and it only got AC by CPP14 compiler.
+     - Here is a very detailed introduction of [BIT on Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees).
